@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "title": "buzz dev - Full-stack Engineer",
+    "description": "Full-stack engineer passionate about clean code and beautiful interfaces. Building innovative web experiences as buzz dev.",
+    "keywords": ["full-stack developer", "react", "typescript", "web development", "software engineer", "buzz dev"],
+    "author": "buzz dev",
+    "openGraph": {
+      "title": "buzz dev - Full-stack Engineer",
+      "description": "Full-stack engineer passionate about clean code and beautiful interfaces. Building innovative web experiences as buzz dev.",
+      "url": "https://buzz.dev",
+      "siteName": "buzz dev Portfolio",
+      "type": "website",
+      "image": {
+        "url": "https://buzz.dev/og-image.jpg",
+        "width": 1200,
+        "height": 630,
+        "alt": "buzz dev - Full-stack Engineer"
+      }
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "site": "@buzzdev_uk",
+      "creator": "@buzzdev_uk",
+      "title": "buzz dev - Full-stack Engineer",
+      "description": "Full-stack engineer passionate about clean code and beautiful interfaces.",
+      "image": "https://buzz.dev/og-image.jpg"
+    },
+    "robots": "index, follow",
+    "canonical": "https://buzz.dev"
+  },
+  "personal": {
+    "name": "buzz",
+    "lastName": "devevelopment",
+    "title": "Full-stack engineer passionate about clean code and beautiful interfaces.",
+    "currentWork": "Currently building innovative web experiences as buzz dev",
+    "currentWorkUrl": "#",
+    "location": "London, UK",
+    "timezone": "GMT",
+    "status": "Available for work",
+    "isOnline": true
+  },
+  "contact": {
+    "email": "info@buzz.dev",
+    "title": "Let's Connect",
+    "description": "Always interested in new opportunities, collaborations, and conversations about technology.",
+    "buttonText": "Get in touch",
+    "socialTitle": "Find me elsewhere",
+    "socialLinks": [
+      {
+        "name": "GitHub",
+        "handle": "@buzzdev-uk",
+        "url": "https://github.com/buzzdev-uk"
+      },
+      {
+        "name": "Twitter",
+        "handle": "@buzzdev_uk",
+        "url": "https://twitter.com/buzzdev_uk"
+      },
+      {
+        "name": "LinkedIn",
+        "handle": "buzzdev-uk",
+        "url": "https://linkedin.com/in/buzzdev-uk"
+      },
+      {
+        "name": "Blog",
+        "handle": "blog.buzzdev.dev",
+        "url": "https://blog.buzzdev.dev"
+      }
+    ]
+  },
+  "sections": {
+    "about": {
+      "title": "About",
+      "navigationLabel": "About"
+    },
+    "expertise": {
+      "title": "Expertise",
+      "navigationLabel": "Skills"
+    },
+    "projects": {
+      "title": "Selected Work",
+      "navigationLabel": "Work"
+    },
+    "contact": {
+      "title": "Contact",
+      "navigationLabel": "Contact"
+    }
+  },
+  "expertise": [
+    {
+      "name": "React",
+      "level": 95,
+      "category": "frontend"
+    },
+    {
+      "name": "TypeScript",
+      "level": 90,
+      "category": "language"
+    },
+    {
+      "name": "Node.js",
+      "level": 85,
+      "category": "backend"
+    },
+    {
+      "name": "Design",
+      "level": 80,
+      "category": "creative"
+    },
+    {
+      "name": "PostgreSQL",
+      "level": 75,
+      "category": "database"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Nexus Dashboard",
+      "type": "Web App",
+      "year": "2024",
+      "status": "live",
+      "description": "A comprehensive analytics dashboard built with React and TypeScript, featuring real-time data visualisation and advanced filtering capabilities.",
+      "url": "https://nexus-dashboard.buzz.dev"
+    },
+    {
+      "name": "Pixel Perfect",
+      "type": "Design System",
+      "year": "2023",
+      "status": "archived",
+      "description": "A complete design system with reusable components, built to ensure consistency across multiple products and platforms.",
+      "url": "https://pixel-perfect.buzz.dev"
+    },
+    {
+      "name": "Flow State",
+      "type": "Mobile App",
+      "year": "2024",
+      "status": "beta",
+      "description": "A productivity mobile application that helps users maintain focus and track their deep work sessions with beautiful analytics.",
+      "url": "https://flow-state.buzz.dev"
+    },
+    {
+      "name": "Code Craft",
+      "type": "CLI Tool",
+      "year": "2023",
+      "status": "live",
+      "description": "A powerful command-line tool for developers to automate common tasks and improve their development workflow efficiency.",
+      "url": "https://github.com/buzz-dev/code-craft"
+    }
+  ],
+  "footer": {
+    "text": "Built with ❤️",
+    "showThemeToggle": true,
+    "themeToggleText": {
+      "light": "Light",
+      "dark": "Dark"
+    }
+  },
+  "theme": {
+    "primaryColor": "#4287f5",
+    "backgroundColor": "#0a0a0a",
+    "textColor": "#f0f0f0",
+    "secondaryTextColor": "#a0a0a0",
+    "mutedTextColor": "#888"
+  }
+}
